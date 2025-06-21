@@ -1,7 +1,4 @@
-**CMMS_draft – A Computerized Maintenance Management System**
-
----
-
+WinterPro
 ## 📌 Project Overview
 
 **winterPro** is a lightweight, web-based Computerized Maintenance Management System (CMMS) designed to help organizations manage maintenance operations efficiently. This project is currently in its early development phase and aims to provide a simple yet powerful tool for tracking assets, scheduling maintenance, and managing work orders.
