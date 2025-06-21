@@ -34,16 +34,3 @@
 ---
 
 ## 📁 Project Structure
-```
-winterPro/
-├── assets/                 # Folder for images, icons, fonts, etc.
-│   └── logo.png
-├── css/
-│   └── styles.css          # Main stylesheet
-├── js/
-│   └── app.js              # JavaScript for interactivity (planned)
-├── index.html              # Main HTML file
-├── README.md               # Project documentation
-├── LICENSE                 # License file (MIT recommended)
-└── .gitignore              # Git ignore file for node_modules, etc.
-```
