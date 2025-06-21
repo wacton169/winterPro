@@ -1,7 +1,3 @@
-# winterPro
-
-# winterPro
-
 **CMMS_draft – A Computerized Maintenance Management System**
 
 ---
